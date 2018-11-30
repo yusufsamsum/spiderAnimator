@@ -1,2 +1,2 @@
-# spiderAnimator
-A Spider Animator
+# Spider Animator
+A Simple spider animator with postures.
